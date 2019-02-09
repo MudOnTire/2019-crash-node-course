@@ -1,0 +1,15 @@
+{
+  "name": "2019-node-crash-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MudOnTire/2019-node-crash-course.git",
+  "author": "MudOnTire <895157882@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
